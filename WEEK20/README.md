@@ -63,3 +63,12 @@ print(count_words_list[:20])
 ### Why this would be fun?
 
 In natural language processing it is often necessary to get the frequencies of all words (or rather stems or lemmas) so it is useful to have an approximate idea how this is done behind the scenes, even if the code might be already involved in the package. Also useful to see what could go wrong, here for example there were plenty of escape characters and special characters that are better to be filtered out right away.
+
+### Proof:
+
+![PROOF2.PNG](attachment:PROOF2.PNG)
+
+
+```python
+
+```
