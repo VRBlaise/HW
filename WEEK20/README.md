@@ -68,7 +68,4 @@ In natural language processing it is often necessary to get the frequencies of a
 
 ![PROOF2.PNG](attachment:PROOF2.PNG)
 
-
-```python
-
-```
+![PROOF2.PNG](https://github.com/VRBlaise/HW/blob/main/WEEK20/PROOF2.PNG)
